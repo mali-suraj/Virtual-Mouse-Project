@@ -1,5 +1,5 @@
 # Virtual-Mouse-Project
-# Virtual Mouse
+
 
 This project implements a virtual mouse using hand tracking and computer vision techniques. It enables users to control the mouse cursor and perform click actions with hand gestures, eliminating the need for a physical mouse.
 
